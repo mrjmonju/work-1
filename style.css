@@ -1,0 +1,41 @@
+
+
+
+
+
+.icon_size
+{
+    max-width: 17%;
+    
+}
+
+.padding-h
+{
+    padding-right: 33%;
+    font-weight: 400;
+}
+.min-mrg{
+    margin-left: -61px;
+}
+
+
+@media (max-width: 575.98px)
+
+{
+
+    .media-1{
+        width: 100%;
+        --bs-gutter-x: 9rem;
+    }
+    .media-2{
+        width: 12rem;
+    margin: auto;
+    }
+
+}
+
+
+
+<!--start section hiring made easy -->
+
+
